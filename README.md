@@ -1,2 +1,4 @@
 # beginning-c-plus-plus-programming
- A Udemy course - From Beginner to Beyond
+https://www.udemy.com/course/beginning-c-plus-plus-programming/
+
+A Udemy course - From Beginner to Beyond
