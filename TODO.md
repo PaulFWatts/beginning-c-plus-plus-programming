@@ -1,0 +1,2 @@
+1. Configure course for Visual Studio Code: [Course: Beginning C++ Programming - From Beginner to Beyond | Udemy](https://www.udemy.com/course/beginning-c-plus-plus-programming/learn/lecture/27256010#overview)
+2. 
